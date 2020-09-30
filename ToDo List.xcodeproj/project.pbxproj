@@ -14,6 +14,7 @@
 		CD4E481C251FBC27009F0D22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD4E481B251FBC27009F0D22 /* Assets.xcassets */; };
 		CD4E481F251FBC27009F0D22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD4E481D251FBC27009F0D22 /* LaunchScreen.storyboard */; };
 		CD4E4847251FD060009F0D22 /* ToDoDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4E4846251FD060009F0D22 /* ToDoDetailTableViewController.swift */; };
+		CDC1233C25250F430092A1F7 /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC1233B25250F430092A1F7 /* ListTableViewCell.swift */; };
 		CDF3A1942522580A005E33EC /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF3A1932522580A005E33EC /* ToDoItem.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		CD4E481E251FBC27009F0D22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CD4E4820251FBC27009F0D22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD4E4846251FD060009F0D22 /* ToDoDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailTableViewController.swift; sourceTree = "<group>"; };
+		CDC1233B25250F430092A1F7 /* ListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
 		CDF3A1932522580A005E33EC /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,6 +67,7 @@
 				CDF3A1932522580A005E33EC /* ToDoItem.swift */,
 				CD4E4816251FBC25009F0D22 /* ToDoListViewController.swift */,
 				CD4E4846251FD060009F0D22 /* ToDoDetailTableViewController.swift */,
+				CDC1233B25250F430092A1F7 /* ListTableViewCell.swift */,
 				CD4E4818251FBC25009F0D22 /* Main.storyboard */,
 				CD4E481B251FBC27009F0D22 /* Assets.xcassets */,
 				CD4E481D251FBC27009F0D22 /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				CDF3A1942522580A005E33EC /* ToDoItem.swift in Sources */,
 				CD4E4847251FD060009F0D22 /* ToDoDetailTableViewController.swift in Sources */,
 				CD4E4815251FBC25009F0D22 /* SceneDelegate.swift in Sources */,
+				CDC1233C25250F430092A1F7 /* ListTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
